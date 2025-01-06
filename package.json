@@ -1,0 +1,13 @@
+{
+  "name": "@webartisan/supabase-start",
+  "version": "1.0.0",
+  "description": "starter for supabase backend service",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docker compose -f docker-compose.cn.yml",
+    "start": "docker compose -f docker-compose.yml"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
